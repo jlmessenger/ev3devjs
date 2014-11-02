@@ -1,0 +1,27 @@
+{
+  "name": "ev3dev",
+  "version": "0.9.1-beta",
+  "description": "An interface to control an EV3 running ev3dev from JavaScript.",
+  "keywords": [
+    "ev3dev"
+  ],
+  "homepage": "http://github.com/ev3dev/ev3dev-lang",
+  "bugs": {
+    "url": "http://github.com/ev3dev/ev3dev-lang/issues"
+  },
+  "author": {
+    "name": "WasabiFan",
+    "email": "WasabiFan@outlook.com"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ev3dev/ev3dev-lang.git"
+  }
+}
